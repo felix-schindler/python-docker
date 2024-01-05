@@ -1,6 +1,6 @@
 ### Building and running your application
 
-```
+```zsh
 # Running this command will build the Dockerfile to an image and return the hash
 docker build -q .
 
